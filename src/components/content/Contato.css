@@ -1,0 +1,52 @@
+.Contato {
+    background-color: #FFFFFF;
+    position: absolute;
+    height: 100vh;
+    width: 195vh;
+  font-size: 1.1rem;
+
+    
+}
+.background{
+    height: 100vh;
+    width: 195vh;
+    background-size: 100px;
+    background-repeat: round;
+    background-image:
+      url(../logos/logo.jpg);
+      
+}
+
+
+.Card{
+    position: absolute;
+    display: block;
+    background-color: #FFFFFF;
+    border: 5px solid #f24130;
+    height: 30vh;
+    width: 55vh;
+    /* padding: 10px; */
+    margin: 10px;
+}
+.Contato h1 {
+    text-align: center;
+    font-size: 1.4rem;
+    text-decoration:underline;
+}
+.Contato ul {
+    list-style: none;
+}
+.Contato li {
+    line-height: 1.5rem;
+}
+.Contato button{
+    /* padding: 10px; */
+    margin: 2px;
+    border: 2px solid #073f51;
+    text-decoration: none;
+}
+button:hover{
+    background-color: 	#f24130;
+    border-color: #000000;
+    
+}
