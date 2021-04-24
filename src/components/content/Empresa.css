@@ -31,7 +31,7 @@ h1 {
         border-radius: 10%;
         border-style: solid;
         margin: 20px;
-        background-color:#000000;
+        background-color:	#a99a91;
     }
 
     .Visao {
@@ -45,7 +45,7 @@ h1 {
         border-radius: 10%;
         border-style: solid;
         margin: 20px;
-        background-color:#000000;
+        background-color:	#a99a91;
     }
 
     .Valores {
@@ -59,17 +59,17 @@ h1 {
         border-radius: 10%;
         border-style: solid;
         margin: 20px;
-        background-color:#000000;
+        background-color:	#a99a91;
     }
 .Missao:hover {
-    background: #073f51 ;
+    background: #ff4d00 ;
     color: #000000;
 }
 .Visao:hover {
-    background: #073f51 ;
+    background: #ff4d00 ;
     color: #000000;
 }
 .Valores:hover {
-    background: #073f51 ;
+    background: #ff4d00 ;
     color: #000000;
 }

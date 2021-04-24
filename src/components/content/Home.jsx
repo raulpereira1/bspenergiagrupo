@@ -21,7 +21,7 @@ const Home = () => {
                 <p>A realização da diálise de tanque de diesel é essencial para confirmar o funcionamento adequado de seu grupo gerador.
                 <br/>Este procedimento consiste na passagem do óleo por um filtro separador de agua e pequenas partículas de resíduos sólidos.
                 <br/>Estas partículas, oriundas do desgaste das partes do motor ou do próprio envelhecimento do óleo, são extremamente prejudiciais à vida útil dos componentes do motor. Assim, a diálise de tanque de diesel deve ser um processo periódico a ser realizado a cada 12 meses ou 800 horas de funcionamento do grupo gerador.
-                <br/>Evitar um prejuízo decorrente da inutilização de componentes é um motivo válido para a realização frequente da diálise de tanque de diesel, mas não é o único. Este procedimento também atua diretamente no aumento da eficiência do ciclo de funcionamento do grupo gerador.</p>
+                </p>
 
             </div>
         </aside>

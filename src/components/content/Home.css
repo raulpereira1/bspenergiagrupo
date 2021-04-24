@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 130vh 30vh;
     grid-template-rows: 50vh;
-    background-color: #FFFFFFcc;
+    background-color: #f6eeff;
     padding: 10px;
     font-size: 1.2rem;
 }
@@ -21,13 +21,24 @@
 }
 
 .Home1 {
-    background-color: #ff0000cc;
+    background-color: #bdaca2;
     padding: 10px;
     grid-template-columns: 150vh;
     display: grid;
     text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.1rem;
+
 }
 
 .Home1 h1{
+    text-decoration: underline;
+    font-size: 1.4rem;
+   
     
+}
+.Home1 p {
+    text-align: center;
+    margin: 5px;
+    padding-bottom: 50px;
 }
